@@ -1,1 +1,1 @@
-#Patika-VeriyapilariveAlgoritmalar Porjeleri
+# Patika-VeriyapilariveAlgoritmalar Porjeleri
